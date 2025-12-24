@@ -62,7 +62,8 @@ NumPy - numerical operations
 Matplotlib & Seaborn - visualizations
 
 ## Jupyter Notebook
-Access the full analysis and code here: 
+Access the full analysis and code here: https://github.com/harinisrepo/UCB-MOD5/blob/main/MOD5%20Assignment.ipynb
+
 
 ---
 
